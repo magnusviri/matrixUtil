@@ -26,7 +26,7 @@ Prints <a> <b> <c> <d> <e> <f> <g> <h> <i>
 
 	matrixUtil <ldraw_file>
 
-Prints every line.  LDraw part lines are followed by the rotation x y z
+Prints every line.  LDraw part lines are followed by "rotation: x y z".
 
 LDraw part line:
 
