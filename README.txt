@@ -1,9 +1,10 @@
 # matrixUtil
 
-By James Reynolds
-http://magnusviri.com
+version 1.0
 
-This utility converts between matrixes and <x y z> rotations.
+Unix command line tool that converts between matrixes and <x y z> rotations.
+
+matrixUtil.c by James Reynolds http://www.magnusviri.com
 
 MatrixMath.c and MatrixMath.h were obtained from the (Bricksmith project)[http://bricksmith.sourceforge.net] (and have been slightly modified).  These files are probably overkill for what I need, but I'm sick and tired of math.
 
