@@ -1,4 +1,5 @@
 /*
+
 gcc -arch i386 -O3 -o matrixUtil MatrixMath.c matrixUtil.c
 
 matrixUtil.c by James Reynolds http://www.magnusviri.com
