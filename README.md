@@ -26,13 +26,11 @@ Prints <a> <b> <c> <d> <e> <f> <g> <h> <i>
 
 	matrixUtil <ldraw_file>
 
-Prints &lt;rx&gt; &lt;ry&gt; &lt;rz&gt; for each LDraw part line.
+Prints every line.  LDraw part lines are followed by the rotation x y z>
 
 LDraw part line:
 
 	1 <color> <tx> <ty> <tz> <a> <b> <c> <d> <e> <f> <g> <h> <i> <part>
-
-For all other lines it prints a newline.
 
 ### Interactive mode
 
