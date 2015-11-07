@@ -2,7 +2,7 @@
 
 version 1.0
 
-Unix command line tool that converts between matrixes and <x y z> rotations.
+Unix command line tool that converts between matrixes and &lt;x y z&gt; rotations.
 
 matrixUtil.c by James Reynolds http://www.magnusviri.com
 
@@ -26,7 +26,7 @@ Prints <a> <b> <c> <d> <e> <f> <g> <h> <i>
 
 	matrixUtil <ldraw_file>
 
-Prints <rx> <ry> <rz> for each LDraw part line.
+Prints &ltrx&gt; &ltry&gt; &ltrz&gt; for each LDraw part line.
 
 LDraw part line:
 
