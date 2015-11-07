@@ -6,7 +6,7 @@ Unix command line tool that converts between matrixes and &lt;x y z&gt; rotation
 
 matrixUtil.c by James Reynolds http://www.magnusviri.com
 
-MatrixMath.c and MatrixMath.h were obtained from the (Bricksmith project)[http://bricksmith.sourceforge.net] (and have been slightly modified).  These files are probably overkill for what I need, but I'm sick and tired of math.
+MatrixMath.c and MatrixMath.h were obtained from the [Bricksmith project](http://bricksmith.sourceforge.net) (and have been slightly modified).  These files are probably overkill for what I need, but I'm sick and tired of math.
 
 Usage:
 
@@ -26,7 +26,7 @@ Prints <a> <b> <c> <d> <e> <f> <g> <h> <i>
 
 	matrixUtil <ldraw_file>
 
-Prints &ltrx&gt; &ltry&gt; &ltrz&gt; for each LDraw part line.
+Prints &lt;rx&gt; &lt;ry&gt; &lt;rz&gt; for each LDraw part line.
 
 LDraw part line:
 
